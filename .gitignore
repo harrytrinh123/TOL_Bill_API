@@ -1,0 +1,3 @@
+# ./cfg/yolov4-custom.cfg
+# vie.traineddata
+yolov4-custom_last.weights
