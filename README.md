@@ -3,8 +3,8 @@ Bill detection and storage, visualize data
 ## Function
 - [x] Detect return image in base64
 - [x] Detect return data in json
-- [o] Storage data
-- [o] Visualize data
+- [ ] Storage data
+- [ ] Visualize data
 ## Tools
 - YOLO v4
 - pytesseract
