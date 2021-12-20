@@ -1,10 +1,10 @@
 # bill_detect (OCR bill detection API)
 Bill detection and storage, visualize data
 ## Function
-- Detect return image in base64
-- Detect return data in json
-- Storage data
-- Visualize data
+- [x] Detect return image in base64
+- [x] Detect return data in json
+- [] Storage data
+- [] Visualize data
 ## Tools
 - YOLO v4
 - pytesseract
